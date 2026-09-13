@@ -77,7 +77,7 @@ export default function page() {
                     </div>
                 </div>
                 <div className="flex justify-center   items-center w-full ">
-                    <button type="submit" className={`bg-[#A23E18] font-bold ${CrimsonPro.className} text-white text-4xl w-full py-2 rounded-xl scale-[95%] hover:scale-[94%] cursor-pointer duration-300`} >
+                    <button type="submit" className={`bg-[#A23E18] font-bold ${CrimsonPro.className} text-white text-4xl w-full py-2 rounded-xl scale-[95%] hover:scale-[94%] cursor-pointer outline-white duration-300`} >
                         Make My Page
                     </button>
                 </div>

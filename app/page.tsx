@@ -28,6 +28,9 @@ export default function Home() {
         <span>A trip.</span>
         <span>A chapter.</span>
       </div>
+      <div className={`flex gap-4 uppercase ${jakartaSans.className} text-md text-[#4D4540] font-bold`}>
+        Of the year
+      </div>
       <div className={`uppercase gap-2 ${CrimsonFont.className} text-lg text-[#1C1C18]`}>
         Something worth keeping :D
       </div>
