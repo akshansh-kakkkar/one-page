@@ -1,6 +1,6 @@
 # One Page
 
-![alt text](image.png)
+<img width="1921" height="957" alt="image" src="https://github.com/user-attachments/assets/eaa9e05a-1193-49b1-90b0-f8a2039cd9e7" />
 
 ## Description
 
