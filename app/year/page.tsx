@@ -38,7 +38,7 @@ export default function page() {
                     One Page.
                 </div>
 
-                <div className="bg-white  py-4 px-4 mx-12 my-8 rounded-xl shadow-sm z-400">
+                <div className="bg-white  py-4 px-4 md:mx-12 my-8 rounded-xl shadow-sm z-400">
                     <div className="flex flex-col my-4 gap-2">
                         <div className={`uppercase text-2xl ${CrimsonPro.className} text-[#A23E18] font-bold`}>
                             My Year.
@@ -52,7 +52,7 @@ export default function page() {
                     </div>
                 </div>
 
-                <div className="bg-white  py-4 px-4 mx-12 my-8 rounded-xl shadow-sm z-400">
+                <div className="bg-white  py-4 px-4 md:mx-12 my-8 rounded-xl shadow-sm z-400">
                     <div className="flex flex-col my-4 gap-2">
                         <div className={`uppercase text-2xl ${CrimsonPro.className} text-[#A23E18] font-bold`}>
                             What was this year about ?
@@ -64,7 +64,7 @@ export default function page() {
                     </div>
                 </div>
 
-                <div className="bg-white  py-4 px-4 mx-12 my-8 rounded-xl shadow-sm z-400">
+                <div className="bg-white  py-4 px-4 md:mx-12 my-8 rounded-xl shadow-sm z-400">
                     <div className="flex flex-col my-4 gap-2">
                         <div className={`uppercase text-2xl ${CrimsonPro.className} text-[#A23E18] font-bold`}>
                             A moment from this year.

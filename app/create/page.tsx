@@ -14,20 +14,6 @@ const cards = [
         description: "A year in one beautiful page.",
         href: "/year"
     },
-    {
-        id: 2,
-        title: "A trip",
-        description: "Remember somewhere you went.",
-        href: "/trip"
-
-    },
-    {
-        id: 3,
-        title: "A chapter",
-        description: "A period of your life worth keeping",
-        href: "/chapter"
-
-    }
 ]
 
 export default function page() {
@@ -40,7 +26,7 @@ export default function page() {
             </div>
 
             <div className={`mt-12 text-4xl z-500 flex justify-center items-center text-center ${CrimsonPro.className} font-medium text-[#1C1C18]`}>
-                What are you Making ?
+                Make your own page
             </div>
             <div className=' w-full flex md:flex-row flex-col mt-8 md:mt-0 h-full justify-center items-center text-center gap-8'>
                 {
